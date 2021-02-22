@@ -19,8 +19,7 @@
 
 
 * **Header Params**
-    `Authorization: Token <the token received>`
-
+   `Not required`
   
 
 * **Success Response:**
